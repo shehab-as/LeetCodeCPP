@@ -1,7 +1,15 @@
 # LeetCode
 Compiled list of LeetCode solutions in C++11 and Python3
 
-## Personal Favourite Questions
+This repo serves as a collection of LeetCode solutions and a compiled lists of questions for those prepping for upcoming interviews or those who just enjoy problem solving!
+### Lists:
+1- MUST
+
+2- Personal Favourite Questions
+ 
+## (1) MUST
+
+## (2) Personal Favourite Questions
 
 |     Question                              |  Difficulty   | Description                                                               |     C++      |
 | :---------------------------------------- | :-----------: | :--------------------------------------------------------------------------: | -----------: |
