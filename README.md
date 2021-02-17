@@ -1,18 +1,19 @@
 # LeetCode
 
-Compiled list of LeetCode solutions in C++11 and Python3
+Compiled list of LeetCode solutions in C++11.
 
 This repo serves as a collection of LeetCode solutions and a compiled lists of questions for those prepping for upcoming interviews or those who just enjoy problem solving!
 
-### Lists:
+Current Stats
 
-1- MUST
+| Difficulty | Count |
+| :--------- | ----: |
+| Easy       |  113  |
+| Medium     |  99   |
+| Hard       |  13   |
+| Total      |  225  |
 
-2- Personal Favourite Questions
-
-## (1) MUST
-
-## (2) Personal Favourite Questions
+## (1) Personal Favourite Questions
 
 | Question                                 | Difficulty |                                Description                                 | C++ |
 | :--------------------------------------- | :--------: | :------------------------------------------------------------------------: | --: |
@@ -42,35 +43,44 @@ This repo serves as a collection of LeetCode solutions and a compiled lists of q
 | Find All Duplicates In An Array          |   Medium   |       https://leetcode.com/problems/find-all-duplicates-in-an-array/       |     |
 | Range Sum Of BST                         |    Easy    |              https://leetcode.com/problems/range-sum-of-bst/               |     |
 
-## (3) Another Compiled List
-
+## (2) Interview Starter
+### Easy
+- Reverse Integer
 - Two Sum
-- Median of Two Sorted Arrays
-- Longest Palindromic Substring
-- String to Integer (atoi)
-- Integer to Roman
-- Roman to Integer
-- Merge K Sorted Lists
-- Valid Sudoku
-- Combination Sum
-- Permutations
-- Merge Intervals
-- Rotate List
-- Word Search
+- Missing Number
+- Valid parentheses
+- Add Strings
+- Longest Palindrome
+- Occurences After Bigram
+- Set Mismatch
+- Shortest Distance to a Character
+- Word Pattern
+- Rotate Array
+- Merge Two Sorted Lists
+- Lowest Common Ancestor of a Binary Tree
+- Path Sum
+- Min Stack
+
+### Medium
+- 3Sum
+- Jump Game
+- Add Two Numbers II
+- All Nodes Distance K in Binary Tree
+- Exam Room
+- Find All Duplicates in an Array
+- Letter Case Permutation
+- Permutation in String
+- Remove Duplicates from Sorted List II
+- Flatten a Multilevel Doubly Linked List
+- Single Element in a Sorted Array
+- Subsets
+- Longest Valid Parentheses
+- Kth Largest Element in an Array
+- Merge k Sorted Lists
+- Sliding Window Maximum
+- Spiral Matrix
 - Validate Binary Search Tree
-- Same Tree
-- Populating Next Right Pointers in Each Node
-- Best Time to Buy and Sell Stock
-- Word Ladder
-- LRU Cache
-- Number of Islands
+- Frog Jump
+- Remove Nth Node From End of List
 - Course Schedule
-- Course Schedule II
-- Integer to English Words
-- Game of Life
-- Find Median from Data Stream
-- Longest Increasing Subsequence
-- Design Tic-Tac-Toe
-- Pacific Atlantic Water Flow
-- Minesweeper
-- Diameter of Binary Tree
+
