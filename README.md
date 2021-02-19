@@ -8,10 +8,10 @@ Current Stats
 
 | Difficulty | Count |
 | :--------- | ----: |
-| Easy       |  113  |
+| Easy       |  115  |
 | Medium     |  99   |
 | Hard       |  13   |
-| Total      |  225  |
+| Total      |  227  |
 
 ## (1) Personal Favourite Questions
 
