@@ -13,7 +13,7 @@ Current Stats
 | Hard       |  13   |
 | Total      |  227  |
 
-## (1) Personal Favourite Questions
+## (1) Personal Favourite Questions &hearts;
 
 | Question                                 | Difficulty |                                Description                                 | C++ |
 | :--------------------------------------- | :--------: | :------------------------------------------------------------------------: | --: |
@@ -45,8 +45,8 @@ Current Stats
 
 ## (2) Interview Starter
 ### Easy
-- Reverse Integer
-- Two Sum
+- Reverse Integer 
+- Two Sum 
 - Missing Number
 - Valid parentheses
 - Add Strings
