@@ -2,7 +2,9 @@
 
 Compiled list of LeetCode solutions in C++11.
 
-This repo serves as a collection of LeetCode solutions and a compiled lists of questions for those prepping for upcoming interviews or those who just enjoy problem solving!
+#### This repo serves as a collection of LeetCode solutions and a compiled lists of questions for those prepping for upcoming interviews or those who just enjoy problem solving!
+
+### This repo is frequently updated with either additional solutions to new problems or improvement on existing solutions. I welcome any pull requests!
 
 Current Stats
 
