@@ -8,12 +8,12 @@ Current Stats
 
 | Difficulty | Count |
 | :--------- | ----: |
-| Easy       |  115  |
-| Medium     |  99   |
-| Hard       |  13   |
-| Total      |  227  |
+| Easy       |   178 |
+| Medium     |   183 |
+| Hard       |    18 |
+| Total      |   379 |
 
-## (1) Personal Favourite Questions &hearts;
+## (1) Personal &hearts; Questions
 
 | Question                                 | Difficulty |                                Description                                 | C++ |
 | :--------------------------------------- | :--------: | :------------------------------------------------------------------------: | --: |
@@ -44,9 +44,11 @@ Current Stats
 | Range Sum Of BST                         |    Easy    |              https://leetcode.com/problems/range-sum-of-bst/               |     |
 
 ## (2) Interview Starter
+
 ### Easy
-- Reverse Integer 
-- Two Sum 
+
+- Reverse Integer
+- Two Sum
 - Missing Number
 - Valid parentheses
 - Add Strings
@@ -62,6 +64,7 @@ Current Stats
 - Min Stack
 
 ### Medium
+
 - 3Sum
 - Jump Game
 - Add Two Numbers II
@@ -83,4 +86,3 @@ Current Stats
 - Frog Jump
 - Remove Nth Node From End of List
 - Course Schedule
-
