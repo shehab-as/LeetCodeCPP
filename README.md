@@ -10,10 +10,10 @@ Current Stats
 
 | Difficulty | Count |
 | :--------- | ----: |
-| Easy       |   178 |
-| Medium     |   184 |
-| Hard       |    18 |
-| Total      |   380 |
+| Easy       |   214 |
+| Medium     |   221 |
+| Hard       |    24 |
+| Total      |   459 |
 
 ## (1) Personal &hearts; Questions
 
