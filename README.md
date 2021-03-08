@@ -4,7 +4,7 @@ Compiled list of LeetCode solutions in C++11.
 
 #### This repo serves as a collection of LeetCode solutions and a compiled lists of questions for those prepping for upcoming interviews or those who just enjoy problem solving!
 
-### This repo is frequently updated with either additional solutions to new problems or improvement on existing solutions. I welcome any pull requests!
+### This repo is frequently updated with either additional solutions to new problems or improvement on existing solutions. Any PR is welcomed!
 
 Current Stats
 
@@ -14,6 +14,32 @@ Current Stats
 | Medium     |   221 |
 | Hard       |    24 |
 | Total      |   459 |
+
+## Getting Started in Datastructures [For Beginners]
+
+|  Topic  |  |
+| :--------- | ----: |
+| Stacks       |    |
+| Queues       |    |
+| Linked Lists       |    |
+| Binary Search Trees      |    |
+| Hash Tables      |    |
+| Heaps & Priority Queues     |    |
+| Graphs      |    |
+| Tries      |    |
+
+## Advanced Datastructures for [For Ninjas]
+
+|  Topic  |  |
+| :--------- | ----: |
+| Red-Black Trees      |    |
+| AVL Trees      |    |
+| B-Trees      |    |
+| Skip Lists      |    |
+| Minimum Spanning Trees      |    |
+| Union Find / Disjoin Sets      |    |
+| Binomial Heaps      |    |
+
 
 ## (1) Personal &hearts; Questions
 
