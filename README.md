@@ -11,9 +11,9 @@ Current Stats
 | Difficulty | Count |
 | :--------- | ----: |
 | Easy       |   214 |
-| Medium     |   221 |
+| Medium     |   222 |
 | Hard       |    24 |
-| Total      |   459 |
+| Total      |   460 |
 
 ## Getting Started in Datastructures [For Beginners]
 
