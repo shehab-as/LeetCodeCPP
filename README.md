@@ -11,35 +11,34 @@ Current Stats
 | Difficulty | Count |
 | :--------- | ----: |
 | Easy       |   214 |
-| Medium     |   222 |
+| Medium     |   223 |
 | Hard       |    24 |
-| Total      |   460 |
+| Total      |   461 |
 
 ## Getting Started in Datastructures [For Beginners]
 
-|  Topic  |  |
-| :--------- | ----: |
-| Stacks       |    |
-| Queues       |    |
-| Linked Lists       |    |
-| Binary Search Trees      |    |
-| Hash Tables      |    |
-| Heaps & Priority Queues     |    |
-| Graphs      |    |
-| Tries      |    |
+| Topic                   |     |
+| :---------------------- | --: |
+| Stacks                  |     |
+| Queues                  |     |
+| Linked Lists            |     |
+| Binary Search Trees     |     |
+| Hash Tables             |     |
+| Heaps & Priority Queues |     |
+| Graphs                  |     |
+| Tries                   |     |
 
 ## Advanced Datastructures for [For Ninjas]
 
-|  Topic  |  |
-| :--------- | ----: |
-| Red-Black Trees      |    |
-| AVL Trees      |    |
-| B-Trees      |    |
-| Skip Lists      |    |
-| Minimum Spanning Trees      |    |
-| Union Find / Disjoin Sets      |    |
-| Binomial Heaps      |    |
-
+| Topic                     |     |
+| :------------------------ | --: |
+| Red-Black Trees           |     |
+| AVL Trees                 |     |
+| B-Trees                   |     |
+| Skip Lists                |     |
+| Minimum Spanning Trees    |     |
+| Union Find / Disjoin Sets |     |
+| Binomial Heaps            |     |
 
 ## (1) Personal &hearts; Questions
 
