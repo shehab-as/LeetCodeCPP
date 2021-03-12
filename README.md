@@ -4,7 +4,7 @@
 
 ### This repo is frequently updated with either the following:
 1) Solutions to new problems :file_folder:
-2) Improvement on existing solutions :chart_with_upwards_trend:
+2) Improvement on existing solutions :hammer_and_wrench:
 3) Links to newly written articles on DS & Alg. :pencil:
 
 ## Any PR is welcomed :computer:
