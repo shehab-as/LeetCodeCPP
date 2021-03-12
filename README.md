@@ -17,28 +17,28 @@ Current Stats
 
 ## Getting Started in Datastructures [For Beginners]
 
-| Topic                   |     |
+| My Articles                  |     |
 | :---------------------- | --: |
-| Stacks                  |     |
-| Queues                  |     |
-| Linked Lists            |     |
-| Binary Search Trees     |     |
-| Hash Tables             |     |
-| Heaps & Priority Queues |     |
-| Graphs                  |     |
-| Tries                   |     |
+| [Stacks](https://shehabmmohamed.github.io/computer-science/2019/01/20/Stacks-&-Queues.html)|
+| [Queues](https://shehabmmohamed.github.io/computer-science/2019/01/20/Stacks-&-Queues.html)|
+| [Linked Lists](https://shehabmmohamed.github.io/computer-science/2019/03/12/Linked-Lists.html)|
+| [Binary Search Trees](https://shehabmmohamed.github.io/computer-science/2018/10/19/Binary-Search-Trees.html)|
+| [InProgress] Hash Tables             |     |
+| [InProgress] Heaps & Priority Queues |     |
+| [InProgress] Graphs                  |     |
+| [InProgress] Tries                   |     |
 
 ## Advanced Datastructures for [For Ninjas]
 
-| Topic                     |     |
+| My Articles                     |     |
 | :------------------------ | --: |
-| Red-Black Trees           |     |
-| AVL Trees                 |     |
-| B-Trees                   |     |
-| Skip Lists                |     |
-| Minimum Spanning Trees    |     |
-| Union Find / Disjoin Sets |     |
-| Binomial Heaps            |     |
+| [Incomplete] [Red-Black Trees](https://shehabmmohamed.github.io/computer-science/2019/01/24/Red-Black-Trees.html)|
+| [InProgress] AVL Trees                 |     
+| [InProgress] B-Trees                   |     
+| [InProgress] Skip Lists                |     
+| [InProgress] Minimum Spanning Trees    |     
+| [InProgress] Union Find / Disjoin Sets |     
+| [InProgress] Binomial Heaps |
 
 ## (1) Personal &hearts; Questions
 
