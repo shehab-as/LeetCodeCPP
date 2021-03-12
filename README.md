@@ -1,12 +1,15 @@
-# LeetCode
+# LeetCodeCPP
 
-Compiled list of LeetCode solutions in C++11.
+#### This repo serves as a collection of LeetCode solutions and compiled lists of "Getting Started" questions along with written articles explaining different topics in datastructures and algorithms :rocket:
 
-#### This repo serves as a collection of LeetCode solutions and a compiled lists of questions for those prepping for upcoming interviews or those who just enjoy problem solving!
+### This repo is frequently updated with either the following:
+1) Additional solutions to new problems 
+2) Improvement on existing solutions
+3) Links to newly written articles on DS & Alg.
 
-### This repo is frequently updated with either additional solutions to new problems or improvement on existing solutions. Any PR is welcomed!
+## Any PR is welcomed :computer:
 
-Current Stats
+Current Stats :bar_chart:
 
 | Difficulty | Count |
 | :--------- | ----: |
