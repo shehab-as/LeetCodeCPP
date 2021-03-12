@@ -3,9 +3,9 @@
 #### This repo serves as a collection of LeetCode solutions and compiled lists of "Getting Started" questions along with written articles explaining different topics in datastructures and algorithms :rocket:
 
 ### This repo is frequently updated with either the following:
-1) Additional solutions to new problems 
-2) Improvement on existing solutions
-3) Links to newly written articles on DS & Alg.
+1) Solutions to new problems :file_folder:
+2) Improvement on existing solutions :chart_with_upwards_trend:
+3) Links to newly written articles on DS & Alg. :pencil:
 
 ## Any PR is welcomed :computer:
 
@@ -73,7 +73,8 @@ Current Stats :bar_chart:
 | Find All Duplicates In An Array          |   Medium   |       https://leetcode.com/problems/find-all-duplicates-in-an-array/       |     |
 | Range Sum Of BST                         |    Easy    |              https://leetcode.com/problems/range-sum-of-bst/               |     |
 
-## (2) Interview Starter
+## Getting Started :ok_hand: 
+### Note: List is not ordered.
 
 ### Easy
 
@@ -92,6 +93,7 @@ Current Stats :bar_chart:
 - Lowest Common Ancestor of a Binary Tree
 - Path Sum
 - Min Stack
+##### (More To ADD)
 
 ### Medium
 
@@ -116,3 +118,9 @@ Current Stats :bar_chart:
 - Frog Jump
 - Remove Nth Node From End of List
 - Course Schedule
+##### (More To ADD)
+
+### Hard
+
+- LRU Cache
+##### (More To ADD)
