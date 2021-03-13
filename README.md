@@ -7,8 +7,6 @@
 2) Improvement on existing solutions :hammer_and_wrench:
 3) Links to newly written articles on DS & Alg. :pencil:
 
-## Any PR is welcomed :computer:
-
 Current Stats :bar_chart:
 
 | Difficulty | Count |
@@ -18,7 +16,7 @@ Current Stats :bar_chart:
 | Hard       |    24 |
 | Total      |   462 |
 
-## Getting Started in Datastructures [For Beginners]
+## Getting Started in data structures
 
 | My Articles                  |     |
 | :---------------------- | --: |
@@ -31,7 +29,7 @@ Current Stats :bar_chart:
 | [InProgress] Graphs                  |     |
 | [InProgress] Tries                   |     |
 
-## Advanced Datastructures for [For Ninjas]
+## Advanced data structures
 
 | My Articles                     |     |
 | :------------------------ | --: |
@@ -43,41 +41,39 @@ Current Stats :bar_chart:
 | [InProgress] Union Find / Disjoin Sets |     
 | [InProgress] Binomial Heaps |
 
-## (1) Personal &hearts; Questions
+## Recommended Questions
 
-| Question                                 | Difficulty |                                Description                                 | C++ |
-| :--------------------------------------- | :--------: | :------------------------------------------------------------------------: | --: |
-| 3Sum                                     |   Medium   |                    https://leetcode.com/problems/3sum/                     |     |
-| Minimum Window Substring                 |    Hard    |          https://leetcode.com/problems/minimum-window-substring/           |     |
-| Restore IP Addresses                     |   Medium   |            https://leetcode.com/problems/restore-ip-addresses/             |     |
-| Find K Pairs with Smallest Sums          |   Medium   |       https://leetcode.com/problems/find-k-pairs-with-smallest-sums/       |     |
-| Remove Duplicates From Sorted List II    |   Medium   |    https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/    |     |
-| Word Pattern                             |    Easy    |                https://leetcode.com/problems/word-pattern/                 |     |
-| Set Mismatch                             |    Easy    |                https://leetcode.com/problems/set-mismatch/                 |     |
-| Exam Room                                |   Medium   |                  https://leetcode.com/problems/exam-room/                  |     |
-| Permutation In String                    |   Medium   |            https://leetcode.com/problems/permutation-in-string/            |     |
-| Network Delay Time                       |   Medium   |             https://leetcode.com/problems/network-delay-time/              |     |
-| Maximum Profit in Job Scheduling         |    Hard    |      https://leetcode.com/problems/maximum-profit-in-job-scheduling/       |     |
-| Populating Next Right Pointers Each Node |   Medium   | https://leetcode.com/problems/populating-next-right-pointers-in-each-node/ |     |
-| Add Strings                              |    Easy    |                 https://leetcode.com/problems/add-strings/                 |     |
-| Longest Palindrome                       |    Easy    |             https://leetcode.com/problems/longest-palindrome/              |     |
-| Add Two Numbers II                       |   Medium   |             https://leetcode.com/problems/add-two-numbers-ii/              |     |
-| Flatten A Multilevel Doubly Linked List  |   Medium   |   https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/   |     |
-| All Nodes Distance K In Binary Tree      |   Medium   |     https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/     |     |
-| Single Element In Sorted Array           |   Medium   |      https://leetcode.com/problems/single-element-in-a-sorted-array/       |     |
-| Friend Circles                           |   Medium   |               https://leetcode.com/problems/friend-circles/                |     |
-| Subsets                                  |   Medium   |                   https://leetcode.com/problems/subsets/                   |     |
-| Occurences After Bigram                  |    Easy    |          https://leetcode.com/problems/occurrences-after-bigram/           |     |
-| Letter Case Permutation                  |   Medium   |           https://leetcode.com/problems/letter-case-permutation/           |     |
-| Shortest Distance To A Character         |    Easy    |      https://leetcode.com/problems/shortest-distance-to-a-character/       |     |
-| Find All Duplicates In An Array          |   Medium   |       https://leetcode.com/problems/find-all-duplicates-in-an-array/       |     |
-| Range Sum Of BST                         |    Easy    |              https://leetcode.com/problems/range-sum-of-bst/               |     |
+| Question                                 | Difficulty |                                Description                                 |
+| :--------------------------------------- | :--------: | :------------------------------------------------------------------------: |
+| 3Sum                                     |   Medium   |                    https://leetcode.com/problems/3sum/                     |
+| Minimum Window Substring                 |    Hard    |          https://leetcode.com/problems/minimum-window-substring/           |
+| Restore IP Addresses                     |   Medium   |            https://leetcode.com/problems/restore-ip-addresses/             |
+| Find K Pairs with Smallest Sums          |   Medium   |       https://leetcode.com/problems/find-k-pairs-with-smallest-sums/       |
+| Remove Duplicates From Sorted List II    |   Medium   |    https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/    |
+| Word Pattern                             |    Easy    |                https://leetcode.com/problems/word-pattern/                 |
+| Set Mismatch                             |    Easy    |                https://leetcode.com/problems/set-mismatch/                 |
+| Exam Room                                |   Medium   |                  https://leetcode.com/problems/exam-room/                  |
+| Permutation In String                    |   Medium   |            https://leetcode.com/problems/permutation-in-string/            |     
+| Network Delay Time                       |   Medium   |             https://leetcode.com/problems/network-delay-time/              |     
+| Maximum Profit in Job Scheduling         |    Hard    |      https://leetcode.com/problems/maximum-profit-in-job-scheduling/       |     
+| Populating Next Right Pointers Each Node |   Medium   | https://leetcode.com/problems/populating-next-right-pointers-in-each-node/ |     
+| Add Strings                              |    Easy    |                 https://leetcode.com/problems/add-strings/                 |     
+| Longest Palindrome                       |    Easy    |             https://leetcode.com/problems/longest-palindrome/              |     
+| Add Two Numbers II                       |   Medium   |             https://leetcode.com/problems/add-two-numbers-ii/              |     
+| Flatten A Multilevel Doubly Linked List  |   Medium   |   https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/   |     
+| All Nodes Distance K In Binary Tree      |   Medium   |     https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/     |     
+| Single Element In Sorted Array           |   Medium   |      https://leetcode.com/problems/single-element-in-a-sorted-array/       |     
+| Friend Circles                           |   Medium   |               https://leetcode.com/problems/friend-circles/                |     
+| Subsets                                  |   Medium   |                   https://leetcode.com/problems/subsets/                   |     
+| Occurences After Bigram                  |    Easy    |          https://leetcode.com/problems/occurrences-after-bigram/           |     
+| Letter Case Permutation                  |   Medium   |           https://leetcode.com/problems/letter-case-permutation/           |     
+| Shortest Distance To A Character         |    Easy    |      https://leetcode.com/problems/shortest-distance-to-a-character/       |     
+| Find All Duplicates In An Array          |   Medium   |       https://leetcode.com/problems/find-all-duplicates-in-an-array/       |     
+| Range Sum Of BST                         |    Easy    |              https://leetcode.com/problems/range-sum-of-bst/               |     
 
-## Getting Started :ok_hand: 
-### Note: List is not ordered.
+## Getting Started :ok_hand: (questions are not sorted by difficulty) 
 
 ### Easy
-
 - Reverse Integer
 - Two Sum
 - Missing Number
@@ -96,7 +92,6 @@ Current Stats :bar_chart:
 ##### (More To ADD)
 
 ### Medium
-
 - 3Sum
 - Jump Game
 - Add Two Numbers II
@@ -121,6 +116,5 @@ Current Stats :bar_chart:
 ##### (More To ADD)
 
 ### Hard
-
 - LRU Cache
 ##### (More To ADD)
