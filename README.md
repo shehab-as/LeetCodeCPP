@@ -3,43 +3,44 @@
 #### This repo serves as a collection of LeetCode solutions and compiled lists of "Getting Started" questions along with written articles explaining different topics in datastructures and algorithms :rocket:
 
 ### This repo is frequently updated with either the following:
-1) Solutions to new problems :file_folder:
-2) Improvement on existing solutions :hammer_and_wrench:
-3) Links to newly written articles on DS & Alg. :pencil:
+
+1. Solutions to new problems :file_folder:
+2. Improvement on existing solutions :hammer_and_wrench:
+3. Links to newly written articles on DS & Alg. :pencil:
 
 Current Stats :bar_chart:
 
 | Difficulty | Count |
 | :--------- | ----: |
 | Easy       |   214 |
-| Medium     |   225 |
+| Medium     |   229 |
 | Hard       |    24 |
-| Total      |   463 |
+| Total      |   467 |
 
 ## Getting Started in data structures
 
-| My Articles                  |     |
-| :---------------------- | --: |
-| [Stacks](https://shehabmmohamed.github.io/computer-science/2019/01/20/Stacks-&-Queues.html)|
-| [Queues](https://shehabmmohamed.github.io/computer-science/2019/01/20/Stacks-&-Queues.html)|
-| [Linked Lists](https://shehabmmohamed.github.io/computer-science/2019/03/12/Linked-Lists.html)|
-| [Binary Search Trees](https://shehabmmohamed.github.io/computer-science/2018/10/19/Binary-Search-Trees.html)|
-| [InProgress] Hash Tables             |     |
-| [InProgress] Heaps & Priority Queues |     |
-| [InProgress] Graphs                  |     |
-| [InProgress] Tries                   |     |
+| My Articles                                                                                                  |     |
+| :----------------------------------------------------------------------------------------------------------- | --: |
+| [Stacks](https://shehabmmohamed.github.io/computer-science/2019/01/20/Stacks-&-Queues.html)                  |
+| [Queues](https://shehabmmohamed.github.io/computer-science/2019/01/20/Stacks-&-Queues.html)                  |
+| [Linked Lists](https://shehabmmohamed.github.io/computer-science/2019/03/12/Linked-Lists.html)               |
+| [Binary Search Trees](https://shehabmmohamed.github.io/computer-science/2018/10/19/Binary-Search-Trees.html) |
+| [InProgress] Hash Tables                                                                                     |     |
+| [InProgress] Heaps & Priority Queues                                                                         |     |
+| [InProgress] Graphs                                                                                          |     |
+| [InProgress] Tries                                                                                           |     |
 
 ## Advanced data structures
 
-| My Articles                     |     |
-| :------------------------ | --: |
-| [Incomplete] [Red-Black Trees](https://shehabmmohamed.github.io/computer-science/2019/01/24/Red-Black-Trees.html)|
-| [InProgress] AVL Trees                 |     
-| [InProgress] B-Trees                   |     
-| [InProgress] Skip Lists                |     
-| [InProgress] Minimum Spanning Trees    |     
-| [InProgress] Union Find / Disjoin Sets |     
-| [InProgress] Binomial Heaps |
+| My Articles                                                                                                       |     |
+| :---------------------------------------------------------------------------------------------------------------- | --: |
+| [Incomplete] [Red-Black Trees](https://shehabmmohamed.github.io/computer-science/2019/01/24/Red-Black-Trees.html) |
+| [InProgress] AVL Trees                                                                                            |
+| [InProgress] B-Trees                                                                                              |
+| [InProgress] Skip Lists                                                                                           |
+| [InProgress] Minimum Spanning Trees                                                                               |
+| [InProgress] Union Find / Disjoin Sets                                                                            |
+| [InProgress] Binomial Heaps                                                                                       |
 
 ## Recommended Questions
 
@@ -53,27 +54,28 @@ Current Stats :bar_chart:
 | Word Pattern                             |    Easy    |                https://leetcode.com/problems/word-pattern/                 |
 | Set Mismatch                             |    Easy    |                https://leetcode.com/problems/set-mismatch/                 |
 | Exam Room                                |   Medium   |                  https://leetcode.com/problems/exam-room/                  |
-| Permutation In String                    |   Medium   |            https://leetcode.com/problems/permutation-in-string/            |     
-| Network Delay Time                       |   Medium   |             https://leetcode.com/problems/network-delay-time/              |     
-| Maximum Profit in Job Scheduling         |    Hard    |      https://leetcode.com/problems/maximum-profit-in-job-scheduling/       |     
-| Populating Next Right Pointers Each Node |   Medium   | https://leetcode.com/problems/populating-next-right-pointers-in-each-node/ |     
-| Add Strings                              |    Easy    |                 https://leetcode.com/problems/add-strings/                 |     
-| Longest Palindrome                       |    Easy    |             https://leetcode.com/problems/longest-palindrome/              |     
-| Add Two Numbers II                       |   Medium   |             https://leetcode.com/problems/add-two-numbers-ii/              |     
-| Flatten A Multilevel Doubly Linked List  |   Medium   |   https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/   |     
-| All Nodes Distance K In Binary Tree      |   Medium   |     https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/     |     
-| Single Element In Sorted Array           |   Medium   |      https://leetcode.com/problems/single-element-in-a-sorted-array/       |     
-| Friend Circles                           |   Medium   |               https://leetcode.com/problems/friend-circles/                |     
-| Subsets                                  |   Medium   |                   https://leetcode.com/problems/subsets/                   |     
-| Occurences After Bigram                  |    Easy    |          https://leetcode.com/problems/occurrences-after-bigram/           |     
-| Letter Case Permutation                  |   Medium   |           https://leetcode.com/problems/letter-case-permutation/           |     
-| Shortest Distance To A Character         |    Easy    |      https://leetcode.com/problems/shortest-distance-to-a-character/       |     
-| Find All Duplicates In An Array          |   Medium   |       https://leetcode.com/problems/find-all-duplicates-in-an-array/       |     
-| Range Sum Of BST                         |    Easy    |              https://leetcode.com/problems/range-sum-of-bst/               |     
+| Permutation In String                    |   Medium   |            https://leetcode.com/problems/permutation-in-string/            |
+| Network Delay Time                       |   Medium   |             https://leetcode.com/problems/network-delay-time/              |
+| Maximum Profit in Job Scheduling         |    Hard    |      https://leetcode.com/problems/maximum-profit-in-job-scheduling/       |
+| Populating Next Right Pointers Each Node |   Medium   | https://leetcode.com/problems/populating-next-right-pointers-in-each-node/ |
+| Add Strings                              |    Easy    |                 https://leetcode.com/problems/add-strings/                 |
+| Longest Palindrome                       |    Easy    |             https://leetcode.com/problems/longest-palindrome/              |
+| Add Two Numbers II                       |   Medium   |             https://leetcode.com/problems/add-two-numbers-ii/              |
+| Flatten A Multilevel Doubly Linked List  |   Medium   |   https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/   |
+| All Nodes Distance K In Binary Tree      |   Medium   |     https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/     |
+| Single Element In Sorted Array           |   Medium   |      https://leetcode.com/problems/single-element-in-a-sorted-array/       |
+| Friend Circles                           |   Medium   |               https://leetcode.com/problems/friend-circles/                |
+| Subsets                                  |   Medium   |                   https://leetcode.com/problems/subsets/                   |
+| Occurences After Bigram                  |    Easy    |          https://leetcode.com/problems/occurrences-after-bigram/           |
+| Letter Case Permutation                  |   Medium   |           https://leetcode.com/problems/letter-case-permutation/           |
+| Shortest Distance To A Character         |    Easy    |      https://leetcode.com/problems/shortest-distance-to-a-character/       |
+| Find All Duplicates In An Array          |   Medium   |       https://leetcode.com/problems/find-all-duplicates-in-an-array/       |
+| Range Sum Of BST                         |    Easy    |              https://leetcode.com/problems/range-sum-of-bst/               |
 
-## Getting Started :ok_hand: (questions are not sorted by difficulty) 
+## Getting Started :ok_hand: (questions are not sorted by difficulty)
 
 ### Easy
+
 - Reverse Integer
 - Two Sum
 - Missing Number
@@ -89,9 +91,11 @@ Current Stats :bar_chart:
 - Lowest Common Ancestor of a Binary Tree
 - Path Sum
 - Min Stack
+
 ##### (More To ADD)
 
 ### Medium
+
 - 3Sum
 - Jump Game
 - Add Two Numbers II
@@ -113,8 +117,11 @@ Current Stats :bar_chart:
 - Frog Jump
 - Remove Nth Node From End of List
 - Course Schedule
+
 ##### (More To ADD)
 
 ### Hard
+
 - LRU Cache
+
 ##### (More To ADD)
