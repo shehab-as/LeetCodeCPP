@@ -14,8 +14,8 @@ Current Stats :bar_chart:
 | :--------- | ----: |
 | Easy       |   214 |
 | Medium     |   232 |
-| Hard       |    24 |
-| Total      |   470 |
+| Hard       |    25 |
+| Total      |   471 |
 
 ## Getting Started in data structures
 
