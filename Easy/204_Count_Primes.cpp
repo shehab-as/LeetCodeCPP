@@ -1,19 +1,29 @@
 class Solution {
 public:
     int countPrimes(int n) {
-        bool primes[n+1];
-        memset(primes, true, sizeof(primes));
+        //Sieve of Erantothoses
+        vector<bool> primes(n+1,true); 
+
+      primes[0]=false;
+      primes[1]=false;
+
+      for(int i = 2; i * i <= n; i++) 
+      {
+        if(primes[i]==false) continue;
+
+        int j=i*i;
+        while(j <= n) 
+        {
+            primes[j]=false;
+            j = j+i;
+        }
+
+      }
         
-        for(int i=2; i*i<=n; i++)
-            if(primes[i] == true)
-                for(int j = i*2; j <= n; j += i)
-                    primes[j] = false;
-         
-        int c = 0;
-        for(int i=2; i<n; i++)
-            if(primes[i] == true)
-                c++;
+      int count=0;
+      for(int i = 1; i < n; i++)
+          count += primes[i];
         
-        return c;
+        return count;
     }
 };
