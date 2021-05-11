@@ -19,16 +19,16 @@ Current Stats :bar_chart:
 
 ## Getting Started in data structures
 
-| My Articles                                                                                                  |     |
-| :----------------------------------------------------------------------------------------------------------- | --: |
-| [Stacks](https://shehabmmohamed.github.io/computer-science/2019/01/20/Stacks-&-Queues.html)                  |
-| [Queues](https://shehabmmohamed.github.io/computer-science/2019/01/20/Stacks-&-Queues.html)                  |
-| [Linked Lists](https://shehabmmohamed.github.io/computer-science/2019/03/12/Linked-Lists.html)               |
-| [Binary Search Trees](https://shehabmmohamed.github.io/computer-science/2018/10/19/Binary-Search-Trees.html) |
-| [InProgress] Hash Tables                                                                                     |     |
-| [InProgress] Heaps & Priority Queues                                                                         |     |
-| [InProgress] Graphs                                                                                          |     |
-| [InProgress] Tries                                                                                           |     |
+| My Articles                                                                                                          |     |
+| :------------------------------------------------------------------------------------------------------------------- | --: |
+| [Stacks](https://shehabmmohamed.github.io/computer-science/2019/01/20/Stacks-&-Queues.html)                          |     |
+| [Queues](https://shehabmmohamed.github.io/computer-science/2019/01/20/Stacks-&-Queues.html)                          |     |
+| [Linked Lists](https://shehabmmohamed.github.io/computer-science/2019/03/12/Linked-Lists.html)                       |     |
+| [Binary Search Trees](https://shehabmmohamed.github.io/computer-science/2018/10/19/Binary-Search-Trees.html)         |     |
+| [InProgress] Hash Tables                                                                                             |     |
+| [Heaps & Priority Queues](https://shehabmmohamed.github.io/computer-science/2019/04/25/Heaps-&-Priority-Queues.html) |     |
+| [InProgress] Graphs                                                                                                  |     |
+| [Tries](https://shehabmmohamed.github.io/computer-science/2019/07/05/Tries.html)                                     |     |
 
 ## Advanced data structures
 
