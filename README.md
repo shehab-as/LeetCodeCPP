@@ -25,7 +25,7 @@ Current Stats :bar_chart:
 | [Queues](https://shehabmmohamed.github.io/computer-science/2019/01/20/Stacks-&-Queues.html)                          |     |
 | [Linked Lists](https://shehabmmohamed.github.io/computer-science/2019/03/12/Linked-Lists.html)                       |     |
 | [Binary Search Trees](https://shehabmmohamed.github.io/computer-science/2018/10/19/Binary-Search-Trees.html)         |     |
-| [InProgress] Hash Tables                                                                                             |     |
+| [Hash Tables](https://shehabmmohamed.github.io/computer-science/2019/01/22/HashTables.html)                          |     |
 | [Heaps & Priority Queues](https://shehabmmohamed.github.io/computer-science/2019/04/25/Heaps-&-Priority-Queues.html) |     |
 | [InProgress] Graphs                                                                                                  |     |
 | [Tries](https://shehabmmohamed.github.io/computer-science/2019/07/05/Tries.html)                                     |     |
