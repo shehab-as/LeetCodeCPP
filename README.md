@@ -34,7 +34,7 @@ Current Stats :bar_chart:
 
 | My Articles                                                                                                       |     |
 | :---------------------------------------------------------------------------------------------------------------- | --: |
-| [Incomplete] [Red-Black Trees](https://shehabmmohamed.github.io/computer-science/2019/01/24/Red-Black-Trees.html) |
+| [Red-Black Trees](https://shehabmmohamed.github.io/computer-science/2019/01/24/Red-Black-Trees.html)              |
 | [InProgress] AVL Trees                                                                                            |
 | [InProgress] B-Trees                                                                                              |
 | [InProgress] Skip Lists                                                                                           |
