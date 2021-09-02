@@ -1,17 +1,19 @@
 class Solution {
 public:
     int arrayNesting(vector<int>& nums) {
-        size_t max_size = 0;
-        bool visited[nums.size()] = {false};
-        for(int i = 0; i < nums.size(); i++) {
-            size_t size = 0;
-            while(!visited[nums[i]]) {
-                size++;
-                visited[nums[i]] = true;
-                nums[i] = nums[nums[i]];
+        if(nums.empty()) { return 0; }
+        int N = nums.size();
+        vector<bool> visited(N, false);
+        int max_length = 0, curr_length;
+        for(int& k : nums) {
+            curr_length = 0;
+            while(!visited[k]) {
+                curr_length++;
+                visited[k] = true;
+                k = nums[k];
             }
-            max_size = max(max_size, size);
+            max_length = max(max_length, curr_length);
         }
-        return max_size;
+        return max_length;
     }
 };
