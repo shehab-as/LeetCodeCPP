@@ -21,20 +21,20 @@ Current Stats :bar_chart:
 
 | My Articles                                                                                                          |     |
 | :------------------------------------------------------------------------------------------------------------------- | --: |
-| [Stacks](https://shehabmmohamed.github.io/computer-science/2019/01/20/Stacks-&-Queues.html)                          |     |
-| [Queues](https://shehabmmohamed.github.io/computer-science/2019/01/20/Stacks-&-Queues.html)                          |     |
-| [Linked Lists](https://shehabmmohamed.github.io/computer-science/2019/03/12/Linked-Lists.html)                       |     |
-| [Binary Search Trees](https://shehabmmohamed.github.io/computer-science/2018/10/19/Binary-Search-Trees.html)         |     |
-| [Hash Tables](https://shehabmmohamed.github.io/computer-science/2019/01/22/HashTables.html)                          |     |
-| [Heaps & Priority Queues](https://shehabmmohamed.github.io/computer-science/2019/04/25/Heaps-&-Priority-Queues.html) |     |
+| [Stacks](https://shehab-as.github.io/computer-science/2019/01/20/Stacks-&-Queues.html)                          |     |
+| [Queues](https://shehab-as.github.io/computer-science/2019/01/20/Stacks-&-Queues.html)                          |     |
+| [Linked Lists](https://shehab-as.github.io/computer-science/2019/03/12/Linked-Lists.html)                       |     |
+| [Binary Search Trees](https://shehab-as.github.io/computer-science/2018/10/19/Binary-Search-Trees.html)         |     |
+| [Hash Tables](https://shehab-as.github.io/computer-science/2019/01/22/HashTables.html)                          |     |
+| [Heaps & Priority Queues](https://shehab-as.github.io/computer-science/2019/04/25/Heaps-&-Priority-Queues.html) |     |
 | [InProgress] Graphs                                                                                                  |     |
-| [Tries](https://shehabmmohamed.github.io/computer-science/2019/07/05/Tries.html)                                     |     |
+| [Tries](https://shehab-as.github.io/computer-science/2019/07/05/Tries.html)                                     |     |
 
 ## Advanced data structures
 
 | My Articles                                                                                                       |     |
 | :---------------------------------------------------------------------------------------------------------------- | --: |
-| [Red-Black Trees](https://shehabmmohamed.github.io/computer-science/2019/01/24/Red-Black-Trees.html)              |
+| [Red-Black Trees](https://shehab-as.github.io/computer-science/2019/01/24/Red-Black-Trees.html)              |
 | [InProgress] AVL Trees                                                                                            |
 | [InProgress] B-Trees                                                                                              |
 | [InProgress] Skip Lists                                                                                           |
